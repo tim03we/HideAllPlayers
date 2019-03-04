@@ -1,0 +1,12 @@
+---
+# Config by tim03we
+
+# Edit the message when the player executes the "/show" command.
+show-player-message: "§aYou will now be shown players again."
+
+# Edit the message when the player executes the "/hide" command.
+hide-player-message: "§cYou will no longer see players."
+
+# Config by tim03we
+# Thanks for using my Plugin!
+...
